@@ -1,0 +1,1540 @@
+2013/05/18 13:59:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/page".' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/page')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=gii/page&view=about
+---
+2013/05/18 13:59:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=gii
+---
+2013/05/18 13:59:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/page".' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/page')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=gii/page&view=about
+---
+2013/05/18 13:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/page".' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/page')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=gii/page&view=gii
+---
+2013/05/18 13:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/page".' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/page')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=gii/page&view=about
+---
+2013/05/18 13:59:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=gii
+---
+2013/05/18 16:32:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "clientes/index"' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('clientes/index')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=clientes/index
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=site
+---
+2013/05/18 16:32:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "clientes/index"' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('clientes/index')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=clientes/index
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=site
+---
+2013/05/18 17:26:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "clientes/crear"' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('clientes/crear')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=clientes/crear
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=cliente/index
+---
+2013/05/18 17:27:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "clientes/crear"' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('clientes/crear')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=clientes/crear
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=cliente/index
+---
+2013/05/18 17:29:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "clientes/crear"' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('clientes/crear')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=clientes/crear
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=cliente/index
+---
+2013/05/18 17:31:10 [warning] [application] Error al definir unsafe el atributo "opc" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:31:10 [warning] [application] Error al definir unsafe el atributo "emailCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:31:10 [warning] [application] Error al definir unsafe el atributo "codigoTelCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:31:10 [warning] [application] Error al definir unsafe el atributo "numeroTelfCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:33:52 [warning] [application] Error al definir unsafe el atributo "opc" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:33:52 [warning] [application] Error al definir unsafe el atributo "emailCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:33:52 [warning] [application] Error al definir unsafe el atributo "codigoTelCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:33:52 [warning] [application] Error al definir unsafe el atributo "numeroTelfCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:39:52 [warning] [application] Error al definir unsafe el atributo "opc" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:39:52 [warning] [application] Error al definir unsafe el atributo "emailCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:39:52 [warning] [application] Error al definir unsafe el atributo "codigoTelCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:39:52 [warning] [application] Error al definir unsafe el atributo "numeroTelfCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:40:39 [warning] [application] Error al definir unsafe el atributo "opc" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:40:39 [warning] [application] Error al definir unsafe el atributo "emailCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:40:39 [warning] [application] Error al definir unsafe el atributo "codigoTelCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:40:39 [warning] [application] Error al definir unsafe el atributo "numeroTelfCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:46:54 [warning] [application] Error al definir unsafe el atributo "opc" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:46:54 [warning] [application] Error al definir unsafe el atributo "emailCli" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:49:08 [warning] [application] Error al definir unsafe el atributo "opc" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (52)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:52:46 [error] [php] Undefined index: id (/home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php:65)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): ClienteController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): ClienteController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): ClienteController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): ClienteController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=cliente/actualizar
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 17:54:16 [error] [php] Creating default object from empty value (/home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php:66)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): ClienteController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): ClienteController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): ClienteController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): ClienteController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=cliente/actualizar
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (66)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:04:15 [error] [php] Undefined index: idCliente (/home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php:65)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): ClienteController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): ClienteController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): ClienteController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): ClienteController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=cliente/actualizar
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:05:03 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (66)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:23:01 [warning] [application] Error al definir unsafe el atributo "opc" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:23:01 [warning] [application] Error al definir unsafe el atributo "rifprov" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:23:01 [warning] [application] Error al definir unsafe el atributo "nombreprov" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:23:01 [warning] [application] Error al definir unsafe el atributo "fechaingprov" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:23:01 [warning] [application] Error al definir unsafe el atributo "descripcionprov" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:23:01 [warning] [application] Error al definir unsafe el atributo "status" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:25:43 [warning] [application] Error al definir unsafe el atributo "opc" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:25:43 [warning] [application] Error al definir unsafe el atributo "fechaingprov" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:25:43 [warning] [application] Error al definir unsafe el atributo "status" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:27:09 [warning] [application] Error al definir unsafe el atributo "opc" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:27:09 [warning] [application] Error al definir unsafe el atributo "fechaingprov" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:28:25 [warning] [application] Error al definir unsafe el atributo "opc" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:35:17 [warning] [application] Error al definir unsafe el atributo "idProveedor" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (64)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:35:33 [warning] [application] Error al definir unsafe el atributo "idProveedor" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (64)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:35:40 [warning] [application] Error al definir unsafe el atributo "idProveedor" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (64)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:36:48 [warning] [application] Error al definir unsafe el atributo "idProveedor" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (64)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:37:04 [warning] [application] Error al definir unsafe el atributo "idProveedor" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (64)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:37:52 [warning] [application] Error al definir unsafe el atributo "idProveedor" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (64)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:37:56 [warning] [application] Error al definir unsafe el atributo "idProveedor" de "Proveedor".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProveedorController.php (64)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 18:38:44 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Cliente".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php (66)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 19:48:46 [warning] [application] Error al definir unsafe el atributo "opc" de "Categorias".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/CategoriasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 19:49:38 [warning] [application] Error al definir unsafe el atributo "opc" de "Categorias".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/CategoriasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 19:49:46 [error] [php] Undefined index: id (/home/urkh/public_html/chino-yii/app/protected/controllers/CategoriasController.php:63)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CategoriasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CategoriasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CategoriasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CategoriasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=categorias/actualizar
+in /home/urkh/public_html/chino-yii/app/protected/controllers/CategoriasController.php (63)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 19:50:18 [warning] [application] Error al definir unsafe el atributo "idCategoria" de "Categorias".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/CategoriasController.php (64)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:19:32 [warning] [application] Error al definir unsafe el atributo "opc" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (51)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:19:32 [warning] [application] Error al definir unsafe el atributo "claveConfirmar" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (51)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:19:46 [warning] [application] Error al definir unsafe el atributo "id" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:19:46 [warning] [application] Error al definir unsafe el atributo "login" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:19:46 [warning] [application] Error al definir unsafe el atributo "clave" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:19:53 [warning] [application] Error al definir unsafe el atributo "id" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:19:53 [warning] [application] Error al definir unsafe el atributo "login" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:19:53 [warning] [application] Error al definir unsafe el atributo "clave" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:24:25 [warning] [application] Error al definir unsafe el atributo "id" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 20:24:31 [warning] [application] Error al definir unsafe el atributo "id" de "Usuario".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/UsuarioController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 21:13:57 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(52): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv&_dc=1368911636952
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:14:05 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(52): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv&_dc=1368911645683
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:15:50 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(52): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv&_dc=1368911749892
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:16:26 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(52): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv&_dc=1368911785423
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:24:06 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(52): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv&_dc=1368912245725
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:24:21 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(52): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv&_dc=1368912260701
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:25:49 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rif' in 'where clause'. La sentencia SQL ejecutada fue: SELECT * FROM `proveedor` `t` WHERE rif LIKE :match.
+in /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php (48)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 21:25:49 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rif' in 'where clause'. The SQL statement executed was: SELECT * FROM `proveedor` `t` WHERE rif LIKE :match' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(48): CActiveRecord->findAll('rif LIKE :match', Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#12 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#14 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#15 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:25:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rif' in 'where clause'. La sentencia SQL ejecutada fue: SELECT * FROM `proveedor` `t` WHERE rif LIKE :match.
+in /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php (48)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 21:25:50 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rif' in 'where clause'. The SQL statement executed was: SELECT * FROM `proveedor` `t` WHERE rif LIKE :match' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(48): CActiveRecord->findAll('rif LIKE :match', Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#12 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#14 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#15 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:26:58 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(52): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv&_dc=1368912417843
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:27:08 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rif' in 'where clause'. La sentencia SQL ejecutada fue: SELECT * FROM `proveedor` `t` WHERE rif LIKE :match.
+in /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php (48)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 21:27:08 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rif' in 'where clause'. The SQL statement executed was: SELECT * FROM `proveedor` `t` WHERE rif LIKE :match' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(48): CActiveRecord->findAll('rif LIKE :match', Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#12 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#14 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#15 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 21:42:29 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rif' in 'where clause'. La sentencia SQL ejecutada fue: SELECT * FROM `proveedor` `t` WHERE rif LIKE :match.
+in /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php (48)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 21:42:29 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rif' in 'where clause'. The SQL statement executed was: SELECT * FROM `proveedor` `t` WHERE rif LIKE :match' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(48): CActiveRecord->findAll('rif LIKE :match', Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#12 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#14 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#15 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 22:00:58 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombreCat' in 'where clause'. La sentencia SQL ejecutada fue: SELECT * FROM `productos` `t` WHERE nombreCat LIKE :match.
+in /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php (62)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 22:00:58 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombreCat' in 'where clause'. The SQL statement executed was: SELECT * FROM `productos` `t` WHERE nombreCat LIKE :match' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(62): CActiveRecord->findAll('nombreCat LIKE ...', Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplCat()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#12 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplCat')
+#14 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplCa...')
+#15 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplCat
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 22:01:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombreCate' in 'where clause'. La sentencia SQL ejecutada fue: SELECT * FROM `productos` `t` WHERE nombreCate LIKE :match.
+in /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php (62)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 22:01:31 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombreCate' in 'where clause'. The SQL statement executed was: SELECT * FROM `productos` `t` WHERE nombreCate LIKE :match' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(62): CActiveRecord->findAll('nombreCate LIKE...', Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplCat()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#12 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplCat')
+#14 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplCa...')
+#15 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplCat
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 22:01:36 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombreCate' in 'where clause'. La sentencia SQL ejecutada fue: SELECT * FROM `productos` `t` WHERE nombreCate LIKE :match.
+in /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php (62)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 22:01:36 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombreCate' in 'where clause'. The SQL statement executed was: SELECT * FROM `productos` `t` WHERE nombreCate LIKE :match' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(62): CActiveRecord->findAll('nombreCate LIKE...', Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplCat()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#12 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplCat')
+#14 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplCa...')
+#15 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplCat
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 22:08:46 [warning] [application] Error al definir unsafe el atributo "opc" de "Productos".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php (56)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 22:39:49 [error] [exception.CException] exception 'CException' with message 'Propiedad "Productos"."categorias" no se encuentra definida.' in /home/urkh/public_html/chino-yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(143): CComponent->__get('categorias')
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php(41): CActiveRecord->__get('categorias')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): ProductosController->actionVer()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('ver')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('productos/ver')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=productos/ver
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 22:47:54 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /home/urkh/public_html/chino-yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(438): CModule->getComponent('db')
+#4 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(623): CApplication->getDb()
+#5 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(2309): CActiveRecord->getDbConnection()
+#6 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Productos))
+#7 /home/urkh/public_html/chino-yii/app/protected/models/Productos.php(36): CActiveRecord::model('Productos')
+#8 /home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php(39): Productos::model()
+#9 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): ProductosController->actionVer()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#13 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#17 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('ver')
+#19 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('productos/ver')
+#20 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#21 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=productos/ver
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 22:50:42 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /home/urkh/public_html/chino-yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(438): CModule->getComponent('db')
+#4 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(623): CApplication->getDb()
+#5 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(2309): CActiveRecord->getDbConnection()
+#6 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Productos))
+#7 /home/urkh/public_html/chino-yii/app/protected/models/Productos.php(36): CActiveRecord::model('Productos')
+#8 /home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php(39): Productos::model()
+#9 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): ProductosController->actionVer()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#13 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#17 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('ver')
+#19 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('productos/ver')
+#20 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#21 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=productos/ver
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 22:57:33 [error] [php] Undefined index: id (/home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php:68)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): ProductosController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): ProductosController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): ProductosController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): ProductosController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=productos/actualizar
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php (68)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 22:58:09 [warning] [application] Error al definir unsafe el atributo "idProductos" de "Productos".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php (69)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 22:58:14 [warning] [application] Error al definir unsafe el atributo "idProductos" de "Productos".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php (69)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 23:06:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "respaldo/respaldo"' in /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('respaldo/respal...')
+#1 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=respaldo/respaldo
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=productos/index
+---
+2013/05/18 23:25:52 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /home/urkh/public_html/chino-yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(438): CModule->getComponent('db')
+#4 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(623): CApplication->getDb()
+#5 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(2309): CActiveRecord->getDbConnection()
+#6 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Cliente))
+#7 /home/urkh/public_html/chino-yii/app/protected/models/Cliente.php(29): CActiveRecord::model('Cliente')
+#8 /home/urkh/public_html/chino-yii/app/protected/controllers/ClienteController.php(39): Cliente::model()
+#9 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): ClienteController->actionVer()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#13 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#17 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('ver')
+#19 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cliente/ver')
+#20 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#21 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=cliente/ver
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=cliente/index
+---
+2013/05/18 23:25:55 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /home/urkh/public_html/chino-yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /home/urkh/public_html/chino-yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /home/urkh/public_html/chino-yii/app/protected/extensions/dumpDB/dumpDB.php(191): CModule->__get('db')
+#5 /home/urkh/public_html/chino-yii/app/protected/extensions/dumpDB/dumpDB.php(29): dumpDB->getTables()
+#6 /home/urkh/public_html/chino-yii/app/protected/controllers/RespaldoController.php(35): dumpDB->getDump(true)
+#7 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): RespaldoController->actionRespaldo()
+#8 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#15 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('respaldo')
+#17 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('respaldo/respal...')
+#18 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#19 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=respaldo/respaldo
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=cliente/index
+---
+2013/05/18 23:50:50 [error] [php] Trying to get property of non-object (/home/urkh/public_html/chino-yii/app/protected/controllers/CompraProdController.php:55)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CompraProdController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CompraProdController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CompraProdController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CompraProdController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=CompraProd/crear
+in /home/urkh/public_html/chino-yii/app/protected/controllers/CompraProdController.php (55)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/18 23:51:26 [error] [php] Trying to get property of non-object (/home/urkh/public_html/chino-yii/app/protected/controllers/CompraProdController.php:55)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CompraProdController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CompraProdController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CompraProdController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CompraProdController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=CompraProd/crear
+in /home/urkh/public_html/chino-yii/app/protected/controllers/CompraProdController.php (55)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 00:07:42 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(50): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProv()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProv')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProv&_dc=1368922061997&start=0&limit=10&query=dxfd
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=ventas/index
+---
+2013/05/19 00:08:31 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(77): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProd()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProd')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProd&_dc=1368922111236&start=0&limit=10&query=dxfd
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=ventas/index
+---
+2013/05/19 00:14:16 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(77): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProd()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProd')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProd&_dc=1368922456063&start=0&limit=10&query=dxfd
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=ventas/index
+---
+2013/05/19 00:42:40 [error] [exception.CException] exception 'CException' with message 'StoresController no ha podido encontrar la vista "index" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/StoresController.php(77): CController->render('index')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): StoresController->actionVerTplProd()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTplProd')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stores/verTplPr...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=stores/verTplProd&_dc=1368924160360&start=0&limit=10&query=dxfd
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=ventas/index
+---
+2013/05/19 01:03:30 [warning] [application] Error al definir unsafe el atributo "opc" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:03:30 [warning] [application] Error al definir unsafe el atributo "productosFact" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:03:30 [warning] [application] Error al definir unsafe el atributo "nombreCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:03:30 [warning] [application] Error al definir unsafe el atributo "apellidoCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:07:51 [warning] [application] Error al definir unsafe el atributo "opc" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:07:51 [warning] [application] Error al definir unsafe el atributo "productosFact" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:07:51 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:07:51 [warning] [application] Error al definir unsafe el atributo "nombreCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:07:51 [warning] [application] Error al definir unsafe el atributo "apellidoCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:17:38 [warning] [application] Error al definir unsafe el atributo "opc" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:17:38 [warning] [application] Error al definir unsafe el atributo "productosFact" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:17:38 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:17:38 [warning] [application] Error al definir unsafe el atributo "nombreCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:17:38 [warning] [application] Error al definir unsafe el atributo "apellidoCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:24:07 [warning] [application] Error al definir unsafe el atributo "opc" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:24:07 [warning] [application] Error al definir unsafe el atributo "productosFact" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:24:07 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:24:07 [warning] [application] Error al definir unsafe el atributo "nombreCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:24:07 [warning] [application] Error al definir unsafe el atributo "apellidoCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:39:11 [warning] [application] Error al definir unsafe el atributo "opc" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:39:11 [warning] [application] Error al definir unsafe el atributo "productosFact" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:39:11 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:39:11 [warning] [application] Error al definir unsafe el atributo "nombreCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:39:11 [warning] [application] Error al definir unsafe el atributo "apellidoCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:41:57 [warning] [application] Error al definir unsafe el atributo "opc" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:41:57 [warning] [application] Error al definir unsafe el atributo "productosFact" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:41:57 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:41:57 [warning] [application] Error al definir unsafe el atributo "nombreCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:41:57 [warning] [application] Error al definir unsafe el atributo "apellidoCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:46:41 [warning] [application] Error al definir unsafe el atributo "opc" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:46:41 [warning] [application] Error al definir unsafe el atributo "productosFact" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:46:41 [warning] [application] Error al definir unsafe el atributo "cliente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:46:41 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:46:41 [warning] [application] Error al definir unsafe el atributo "nombreCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:46:41 [warning] [application] Error al definir unsafe el atributo "apellidoCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:50:10 [warning] [application] Error al definir unsafe el atributo "opc" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:50:10 [warning] [application] Error al definir unsafe el atributo "productosFact" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:50:10 [warning] [application] Error al definir unsafe el atributo "cliente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:50:10 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:50:10 [warning] [application] Error al definir unsafe el atributo "nombreCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:50:10 [warning] [application] Error al definir unsafe el atributo "apellidoCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:59:40 [warning] [application] Error al definir unsafe el atributo "opc" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:59:40 [warning] [application] Error al definir unsafe el atributo "productosFact" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:59:40 [warning] [application] Error al definir unsafe el atributo "cliente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:59:40 [warning] [application] Error al definir unsafe el atributo "idCLiente" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:59:40 [warning] [application] Error al definir unsafe el atributo "nombreCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 01:59:40 [warning] [application] Error al definir unsafe el atributo "apellidoCli" de "Ventas".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 02:04:11 [warning] [application] Error al definir unsafe el atributo "opc" de "CompraProd".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/CompraProdController.php (57)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 02:05:54 [error] [php] Undefined variable: productosFact (/home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php:50)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): VentasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): VentasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): VentasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): VentasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/crear
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (50)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 02:06:31 [error] [php] Trying to get property of non-object (/home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php:51)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): VentasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): VentasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): VentasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): VentasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/crear
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (51)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 02:53:54 [error] [system.db.CDbCommand] CDbCommand::execute() falló: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'. La sentencia SQL ejecutada fue: INSERT INTO `ventas` (`idCliente`, `codigoVent`, `idProductos`, `cantidadPVent`, `fechaVent`, `totalVent`, `idVentas`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6).
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (72)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 02:53:54 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `ventas` (`idCliente`, `codigoVent`, `idProductos`, `cantidadPVent`, `fechaVent`, `totalVent`, `idVentas`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6)' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php(72): CActiveRecord->save()
+#3 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): VentasController->actionCrear()
+#4 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('crear')
+#13 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ventas/crear')
+#14 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/crear
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=ventas/index
+---
+2013/05/19 03:07:11 [error] [system.db.CDbCommand] CDbCommand::execute() falló: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '12' for key 'PRIMARY'. La sentencia SQL ejecutada fue: INSERT INTO `ventas` (`idCliente`, `codigoVent`, `idProductos`, `cantidadPVent`, `fechaVent`, `totalVent`, `idVentas`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6).
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (64)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/19 03:07:11 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '12' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `ventas` (`idCliente`, `codigoVent`, `idProductos`, `cantidadPVent`, `fechaVent`, `totalVent`, `idVentas`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6)' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php(64): CActiveRecord->save()
+#3 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): VentasController->actionCrear()
+#4 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('crear')
+#13 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ventas/crear')
+#14 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/crear
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=ventas/index
+---
+2013/05/20 15:14:48 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /home/urkh/public_html/chino-yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /home/urkh/public_html/chino-yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(438): CModule->getComponent('db')
+#4 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(623): CApplication->getDb()
+#5 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(2309): CActiveRecord->getDbConnection()
+#6 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Productos))
+#7 /home/urkh/public_html/chino-yii/app/protected/models/Productos.php(36): CActiveRecord::model('Productos')
+#8 /home/urkh/public_html/chino-yii/app/protected/views/layouts/main.php(68): Productos::model()
+#9 /home/urkh/public_html/chino-yii/framework/web/CBaseController.php(126): require('/home/urkh/publ...')
+#10 /home/urkh/public_html/chino-yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/urkh/publ...', Array, true)
+#11 /home/urkh/public_html/chino-yii/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/urkh/publ...', Array, true)
+#12 /home/urkh/public_html/chino-yii/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#13 /home/urkh/public_html/chino-yii/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#14 /home/urkh/public_html/chino-yii/framework/web/CBaseController.php(206): COutputProcessor->run()
+#15 /home/urkh/public_html/chino-yii/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#16 /home/urkh/public_html/chino-yii/app/protected/views/layouts/column1.php(6): CBaseController->endContent()
+#17 /home/urkh/public_html/chino-yii/framework/web/CBaseController.php(126): require('/home/urkh/publ...')
+#18 /home/urkh/public_html/chino-yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/urkh/publ...', Array, true)
+#19 /home/urkh/public_html/chino-yii/framework/web/CController.php(784): CBaseController->renderFile('/home/urkh/publ...', Array, true)
+#20 /home/urkh/public_html/chino-yii/app/protected/controllers/SiteController.php(59): CController->render('index')
+#21 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#22 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#23 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#24 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#25 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#26 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#27 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#28 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#29 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#30 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('')
+#31 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#32 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#33 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#34 {main}
+REQUEST_URI=/~urkh/chino-yii/app/
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=site/login
+---
+2013/05/20 15:37:06 [warning] [application] Error al definir unsafe el atributo "opc" de "Productos".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php (55)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 15:38:36 [error] [php] Undefined index: idProductos (/home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php:65)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): VentasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): VentasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): VentasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): VentasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/crear
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 15:39:00 [error] [php] Undefined index: idProductos (/home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php:65)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): VentasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): VentasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): VentasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): VentasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/crear
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (65)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 18:56:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "ver.php" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(270): CController->missingAction('ver.php')
+#1 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('ver.php')
+#2 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ventas/ver.php')
+#3 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/ver.php
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=ventas/ver
+---
+2013/05/20 19:10:34 [error] [exception.CException] exception 'CException' with message 'Propiedad "Productos"."nombreCate" no se encuentra definida.' in /home/urkh/public_html/chino-yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(143): CComponent->__get('nombreCate')
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php(39): CActiveRecord->__get('nombreCate')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): VentasController->actionVer()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('ver')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ventas/ver')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/ver
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=ventas/ver
+---
+2013/05/20 19:10:40 [error] [exception.CException] exception 'CException' with message 'Propiedad "Productos"."nombreCate" no se encuentra definida.' in /home/urkh/public_html/chino-yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/ar/CActiveRecord.php(143): CComponent->__get('nombreCate')
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php(39): CActiveRecord->__get('nombreCate')
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): VentasController->actionVer()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('ver')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('ventas/ver')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/ver
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=ventas/ver
+---
+2013/05/20 19:11:24 [error] [php] Trying to get property of non-object (/home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php:40)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): VentasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): VentasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): VentasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): VentasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=ventas/ver
+in /home/urkh/public_html/chino-yii/app/protected/controllers/VentasController.php (40)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 19:34:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "verTorta" solicitada.' in /home/urkh/public_html/chino-yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/CController.php(270): CController->missingAction('verTorta')
+#1 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTorta')
+#2 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estadisticas/ve...')
+#3 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-24&fechaH=2013-05-18
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=estadisticas/index
+---
+2013/05/20 19:35:15 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chino.ordenes_trabajos' doesn't exist. La sentencia SQL ejecutada fue: SELECT  COUNT(CASE WHEN estatus=0 THEN estatus END) AS apro, COUNT(CASE WHEN estatus=1 THEN estatus END) AS repro
+FROM `ordenes_trabajos`
+WHERE fecha BETWEEN "2013-05-23" AND  "2013-05-16" .
+in /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php (137)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 19:35:15 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chino.ordenes_trabajos' doesn't exist. The SQL statement executed was: SELECT  COUNT(CASE WHEN estatus=0 THEN estatus END) AS apro, COUNT(CASE WHEN estatus=1 THEN estatus END) AS repro
+FROM `ordenes_trabajos`
+WHERE fecha BETWEEN "2013-05-23" AND  "2013-05-16" ' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php(137): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): EstadisticasController->actionVerTorta()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTorta')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estadisticas/ve...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-23&fechaH=2013-05-16
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=estadisticas/index
+---
+2013/05/20 21:20:46 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chino.ordenes_trabajos' doesn't exist. La sentencia SQL ejecutada fue: SELECT  COUNT(CASE WHEN estatus=0 THEN estatus END) AS total, COUNT(CASE WHEN estatus=1 THEN estatus END) AS repro
+FROM `ordenes_trabajos`
+WHERE fecha BETWEEN "2013-05-07" AND  "2013-05-09" .
+in /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php (125)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 21:20:46 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chino.ordenes_trabajos' doesn't exist. The SQL statement executed was: SELECT  COUNT(CASE WHEN estatus=0 THEN estatus END) AS total, COUNT(CASE WHEN estatus=1 THEN estatus END) AS repro
+FROM `ordenes_trabajos`
+WHERE fecha BETWEEN "2013-05-07" AND  "2013-05-09" ' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php(125): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): EstadisticasController->actionVerTorta()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTorta')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estadisticas/ve...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-07&fechaH=2013-05-09
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=estadisticas/index
+---
+2013/05/20 21:20:47 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chino.ordenes_trabajos' doesn't exist. La sentencia SQL ejecutada fue: SELECT  COUNT(CASE WHEN estatus=0 THEN estatus END) AS total, COUNT(CASE WHEN estatus=1 THEN estatus END) AS repro
+FROM `ordenes_trabajos`
+WHERE fecha BETWEEN "2013-05-07" AND  "2013-05-09" .
+in /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php (125)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 21:20:47 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chino.ordenes_trabajos' doesn't exist. The SQL statement executed was: SELECT  COUNT(CASE WHEN estatus=0 THEN estatus END) AS total, COUNT(CASE WHEN estatus=1 THEN estatus END) AS repro
+FROM `ordenes_trabajos`
+WHERE fecha BETWEEN "2013-05-07" AND  "2013-05-09" ' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php(125): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): EstadisticasController->actionVerTorta()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTorta')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estadisticas/ve...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-07&fechaH=2013-05-09
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=estadisticas/index
+---
+2013/05/20 21:38:33 [error] [system.db.CDbCommand] CDbCommand::fetchAll() falló: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha' in 'where clause'. La sentencia SQL ejecutada fue: SELECT count(t1.idProductos) AS producto, t2.nombreProd
+FROM `ventas` `t1`, `productos` `t2`
+WHERE fecha BETWEEN "2013-05-01" AND  "2013-05-31" AND t1.idProductos=t2.idProductos
+GROUP BY `nombreProd`.
+in /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php (126)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 21:38:33 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha' in 'where clause'. The SQL statement executed was: SELECT count(t1.idProductos) AS producto, t2.nombreProd
+FROM `ventas` `t1`, `productos` `t2`
+WHERE fecha BETWEEN "2013-05-01" AND  "2013-05-31" AND t1.idProductos=t2.idProductos
+GROUP BY `nombreProd`' in /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php(126): CDbCommand->queryAll()
+#2 /home/urkh/public_html/chino-yii/framework/web/actions/CInlineAction.php(49): EstadisticasController->actionVerTorta()
+#3 /home/urkh/public_html/chino-yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): CController->run('verTorta')
+#12 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estadisticas/ve...')
+#13 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/urkh/public_html/chino-yii/app/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-01&fechaH=2013-05-31
+HTTP_REFERER=http://localhost/~urkh/chino-yii/app/index.php?r=estadisticas/index
+---
+2013/05/20 21:39:03 [error] [php] Undefined index: total (/home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php:130)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): EstadisticasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): EstadisticasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): EstadisticasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): EstadisticasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-01&fechaH=2013-05-31
+in /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php (130)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 21:59:07 [error] [php] Undefined variable: json (/home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php:131)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): EstadisticasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): EstadisticasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): EstadisticasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): EstadisticasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-01&fechaH=2013-05-23
+in /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php (131)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 22:01:22 [error] [php] Undefined variable: json (/home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php:131)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): EstadisticasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): EstadisticasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): EstadisticasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): EstadisticasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-01&fechaH=2013-05-23
+in /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php (131)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 22:05:34 [warning] [application] Error al definir unsafe el atributo "opc" de "Productos".
+in /home/urkh/public_html/chino-yii/app/protected/controllers/ProductosController.php (55)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 22:09:20 [error] [php] Undefined variable: json (/home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php:131)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): EstadisticasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): EstadisticasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): EstadisticasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): EstadisticasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-01&fechaH=2013-06-02
+in /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php (131)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2013/05/20 22:09:42 [error] [php] Undefined variable: json (/home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php:131)
+Stack trace:
+#0 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(133): EstadisticasController->runAction()
+#1 /home/urkh/public_html/chino-yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /home/urkh/public_html/chino-yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /home/urkh/public_html/chino-yii/framework/web/filters/CInlineFilter.php(58): EstadisticasController->filterAccessControl()
+#4 /home/urkh/public_html/chino-yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /home/urkh/public_html/chino-yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/urkh/public_html/chino-yii/framework/web/CController.php(265): EstadisticasController->runActionWithFilters()
+#7 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(282): EstadisticasController->run()
+#8 /home/urkh/public_html/chino-yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/urkh/public_html/chino-yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/urkh/public_html/chino-yii/app/index.php(13): CWebApplication->run()
+REQUEST_URI=/~urkh/chino-yii/app/index.php?r=estadisticas/verTorta&fechaD=2013-05-01&fechaH=2013-06-02
+in /home/urkh/public_html/chino-yii/app/protected/controllers/EstadisticasController.php (131)
+in /home/urkh/public_html/chino-yii/app/index.php (13)
+2015/11/23 15:06:10 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\db\CDbConnection.php:381
+Stack trace:
+#0 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\base\CModule.php(387): CDbConnection->init()
+#3 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\base\CApplication.php(438): CModule->getComponent('db')
+#4 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\db\ar\CActiveRecord.php(623): CApplication->getDb()
+#5 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\db\ar\CActiveRecord.php(2309): CActiveRecord->getDbConnection()
+#6 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Usuario))
+#7 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\app\protected\models\Usuario.php(27): CActiveRecord::model('Usuario')
+#8 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\app\protected\components\UserIdentity.php(6): Usuario::model()
+#9 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\app\protected\models\LoginForm.php(52): UserIdentity->authenticate()
+#10 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\validators\CInlineValidator.php(42): LoginForm->authenticate('password', Array)
+#11 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute(Object(LoginForm), 'password')
+#12 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\base\CModel.php(159): CValidator->validate(Object(LoginForm), NULL)
+#13 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\app\protected\controllers\SiteController.php(121): CModel->validate()
+#14 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#15 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#16 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#17 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#18 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\CController.php(291): CFilterChain->run()
+#22 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\CWebApplication.php(282): CController->run('login')
+#24 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#25 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#26 C:\xampp\htdocs\urkh-chino-yii-16ea60b40243\app\index.php(13): CApplication->run()
+#27 {main}
+REQUEST_URI=/urkh-chino-yii-16ea60b40243/app/index.php?r=site/login
+HTTP_REFERER=http://127.1.1.0/urkh-chino-yii-16ea60b40243/app/index.php?r=site/login
+---
+2016/01/16 17:43:19 [warning] [application] Error al definir unsafe el atributo "idProveedor" de "Proveedor".
+in C:\xampp\htdocs\urkh-chino-yii\app\protected\controllers\ProveedorController.php (64)
+in C:\xampp\htdocs\urkh-chino-yii\app\index.php (13)

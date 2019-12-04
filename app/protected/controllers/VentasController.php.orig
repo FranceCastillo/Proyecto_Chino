@@ -1,0 +1,107 @@
+<?php
+
+class VentasController extends Controller
+{
+	public function actionIndex()
+	{
+		$this->render('index');
+	}
+
+public function filters()
+	{
+		return array(
+			'accessControl', // perform access control for CRUD operations
+		);
+	}
+
+	public function accessRules()
+	{
+		return array(
+			array('allow', // allow authenticated user to perform 'create' and 'update' actions
+				'actions'=>array('crear','actualizar','index','ver'),
+				'users'=>array('@'),
+			),
+			array('allow', // allow admin user to perform 'admin' and 'delete' actions
+				'actions'=>array('delete'),
+				'users'=>array('admin'),
+			),
+			array('deny',  // deny all users
+				'users'=>array('*'),
+			),
+		);
+	}
+
+	public function actionVer()
+	{
+     if($_POST){
+            $model=Ventas::model()->findAll();
+            foreach($model as $ventas){
+                $ventas->idProductos=$ventas->idProductos0->nombreProd;
+                $ventas->idCliente=$ventas->idCliente0->cedulaRifCli." ".$ventas->idCliente0->nombreCli." ".$ventas->idCliente0->apellidoCli;
+            }
+    	    header('Content-type: application/json');
+    	    echo '{data:'.CJSON::encode($model).'}';
+        }else{
+        $this->render('ver');
+        }
+	}
+
+	public function actionCrear()
+	{
+		$model=new Ventas;
+		
+		$productosFact=$_POST['productosFact'];
+		$obj=json_decode($productosFact);
+<<<<<<< HEAD
+		$codigoVent=mt_rand(10000,99999);
+                $contador=0;
+                $nohay="";
+                foreach($obj as $dato){
+                        $var=Productos::model()->findByPk($dato->{'idProductos'});
+                        if($var->existenciaProd > $dato->{'cantidadPVent'}){
+                          $contador=$contador+1;
+                        }else{
+                        $nohay.=$var->nombreProd.", ";
+                        }
+=======
+		$codigoVent=mt_rand(1000,99999);
+>>>>>>> 21141684b0ca6437855cafca710653456890097b
+
+                }
+                if ($contador == count($obj)){
+		    foreach ($obj as $valor) {
+
+			$model->idCliente=$_POST['idCLiente'];
+			$model->codigoVent=$codigoVent;
+			$model->idProductos=$valor->{'idProductos'};
+			$model->cantidadPVent=$valor->{'cantidadPVent'};
+			$model->fechaVent=date('Y-m-d');
+			$model->totalVent=$valor->{'totalVent'};
+
+			$productos=Productos::model()->findByPk($valor->{'idProductos'});
+			$productos->existenciaProd=$productos->existenciaProd - $valor->{'cantidadPVent'};
+
+			$model->setIsNewRecord(true);
+			$model->setPrimaryKey(NULL);
+			$productos->save();
+			$model->save();
+
+		}
+
+		echo '{"success": true, "message":{"reason": "Venta registrada exitosamente.'.count($obj).' "}}';
+}else{		echo '{"success": true, "message":{"reason": "No hay disponibilidad de '.$nohay.'"}}';}
+
+	}
+
+
+
+    public function actionEliminar()
+    {
+        if($_POST){
+            $post=Ventas::model()->findByPk($_POST['id']); // assuming there is a post whose ID is 10
+            $post->delete(); // delete the row from the database table
+        }else{
+        $this->render('index');
+        }
+    }
+}
